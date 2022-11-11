@@ -7,7 +7,7 @@
 
 - 🎥 Falo sobre Instagram no Youtube [Canal RodrigoAraujoMKT](https://www.youtube.com/c/RodrigoBob)
 
-- 📜 Tenho graduação em Marketing **e faço MBA em Gestão de Projetos**
+- 📜 Tenho graduação em Marketing e faço MBA em Gestão de Projetos
 
 - 📨 Entre em contato comigo por e-mail **rodrigosdesign@gmail.com**
 
