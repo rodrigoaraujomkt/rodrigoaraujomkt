@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/rodrigoboboficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/rodrigoboboficial" height="30" width="40" /></a>
 <a href="https://instagram.com/rodrigoboboficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigoboboficial" height="30" width="40" /></a>
-<a href="https://www.behance.net/rodrigoaraujomkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rodrigoaraujomkt" height="30" width="40" /></a>
+<a href="https://www.behance.net/rodrigobob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rodrigoaraujomkt" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/RodrigoBob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rodrigoaraujomkt" height="30" width="40" /></a>
 </p>
 
