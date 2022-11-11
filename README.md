@@ -1,5 +1,5 @@
 <h1 align="center">Olá!👍🏻 Eu sou o Rodrigo Araujo</h1>
-<h3 align="center">Sou apaixonado por Análise de Dados para obter melhores resultados no Marketing</h3>
+<h3 align="center">Sou apaixonado por Analisar de Dados para obter melhores resultados no Marketing</h3>
 
 - 💻 Atualmente trabalho com Marketing [Instagram para Empreendedores](https://rodrigosdesign.wixsite.com/inscricao)
 
